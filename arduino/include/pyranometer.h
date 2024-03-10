@@ -1,3 +1,0 @@
-void pyranoSetup();
-
-float getSolarIrradiance();

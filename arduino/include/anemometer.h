@@ -1,3 +1,0 @@
-void anemoSetup();
-
-float getWindSpeed();
