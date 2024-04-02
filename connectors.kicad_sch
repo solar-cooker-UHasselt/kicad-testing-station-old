@@ -2089,7 +2089,7 @@
 			(uuid "dc2709c3-52f0-4b79-91d7-167dd9d8b450")
 		)
 		(instances
-			(project "solar_cooker"
+			(project "testing_station_old"
 				(path "/c2c342ae-c172-4b44-a50e-ddd387eb2591/14865a9e-5c92-459f-ac42-a80900d0fae9"
 					(reference "J14")
 					(unit 1)
@@ -2214,7 +2214,7 @@
 			(uuid "cf99a96a-2db4-40b4-bb0a-a47bfc009fe7")
 		)
 		(instances
-			(project "solar_cooker"
+			(project "testing_station_old"
 				(path "/c2c342ae-c172-4b44-a50e-ddd387eb2591/14865a9e-5c92-459f-ac42-a80900d0fae9"
 					(reference "J10")
 					(unit 1)
@@ -2339,7 +2339,7 @@
 			(uuid "a1017717-f378-4e3c-8153-e3f7343906ef")
 		)
 		(instances
-			(project "solar_cooker"
+			(project "testing_station_old"
 				(path "/c2c342ae-c172-4b44-a50e-ddd387eb2591/14865a9e-5c92-459f-ac42-a80900d0fae9"
 					(reference "J15")
 					(unit 1)
@@ -2547,7 +2547,7 @@
 			(uuid "6f8837f3-3e13-4f18-b6d4-23dc16aaa88d")
 		)
 		(instances
-			(project "solar_cooker"
+			(project "testing_station_old"
 				(path "/c2c342ae-c172-4b44-a50e-ddd387eb2591/14865a9e-5c92-459f-ac42-a80900d0fae9"
 					(reference "J13")
 					(unit 1)
@@ -2672,7 +2672,7 @@
 			(uuid "be54fc7a-c581-48f3-82de-8ad47f470c8d")
 		)
 		(instances
-			(project "solar_cooker"
+			(project "testing_station_old"
 				(path "/c2c342ae-c172-4b44-a50e-ddd387eb2591/14865a9e-5c92-459f-ac42-a80900d0fae9"
 					(reference "J11")
 					(unit 1)
@@ -2800,7 +2800,7 @@
 			(uuid "e799bade-9b89-48b7-9ec1-0508a94d9a01")
 		)
 		(instances
-			(project "solar_cooker"
+			(project "testing_station_old"
 				(path "/c2c342ae-c172-4b44-a50e-ddd387eb2591/14865a9e-5c92-459f-ac42-a80900d0fae9"
 					(reference "J9")
 					(unit 1)
@@ -2931,7 +2931,7 @@
 			(uuid "2b546381-3e03-475b-96ee-0900227df9d7")
 		)
 		(instances
-			(project "solar_cooker"
+			(project "testing_station_old"
 				(path "/c2c342ae-c172-4b44-a50e-ddd387eb2591/14865a9e-5c92-459f-ac42-a80900d0fae9"
 					(reference "J16")
 					(unit 1)
@@ -3056,7 +3056,7 @@
 			(uuid "4bd4572e-b052-4248-a499-89bffc7d3254")
 		)
 		(instances
-			(project "solar_cooker"
+			(project "testing_station_old"
 				(path "/c2c342ae-c172-4b44-a50e-ddd387eb2591/14865a9e-5c92-459f-ac42-a80900d0fae9"
 					(reference "J12")
 					(unit 1)

@@ -320,7 +320,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/c0a60a3b-7d9c-4852-b93c-01fa38c2d8d9")
 		(sheetname "Root")
-		(sheetfile "solar_cooker.kicad_sch")
+		(sheetfile "testing_station_old.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 0.91)
@@ -589,7 +589,7 @@
 		)
 		(path "/c41d0458-de1b-41ca-84c6-c7d1efebb5dd")
 		(sheetname "Root")
-		(sheetfile "solar_cooker.kicad_sch")
+		(sheetfile "testing_station_old.kicad_sch")
 		(attr through_hole)
 		(fp_rect
 			(start -7.5 -4.75)
@@ -799,7 +799,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/9049d760-77ef-41ab-924f-8cfc3970ae18")
 		(sheetname "Root")
-		(sheetfile "solar_cooker.kicad_sch")
+		(sheetfile "testing_station_old.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.46 -1.135)
@@ -1090,7 +1090,7 @@
 		)
 		(path "/c50b660c-fcaf-4276-86e3-0e69ecfa3fd9")
 		(sheetname "Root")
-		(sheetfile "solar_cooker.kicad_sch")
+		(sheetfile "testing_station_old.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -12.446 6.35)
@@ -1400,7 +1400,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/3abe83cf-8ea0-4866-b8cc-ddf914da7848")
 		(sheetname "Root")
-		(sheetfile "solar_cooker.kicad_sch")
+		(sheetfile "testing_station_old.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.46 -1.135)
@@ -1692,7 +1692,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/6a403da6-dd59-4845-ba10-094887684acf")
 		(sheetname "Root")
-		(sheetfile "solar_cooker.kicad_sch")
+		(sheetfile "testing_station_old.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 0.91)
@@ -1961,7 +1961,7 @@
 		)
 		(path "/cdd3425d-1499-4816-8109-da44eafb0436")
 		(sheetname "Root")
-		(sheetfile "solar_cooker.kicad_sch")
+		(sheetfile "testing_station_old.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -12.827 14.478)
@@ -2293,7 +2293,7 @@
 		)
 		(path "/a0dd9e6b-e822-4e3b-8f03-369efda7d527")
 		(sheetname "Root")
-		(sheetfile "solar_cooker.kicad_sch")
+		(sheetfile "testing_station_old.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 10.16 13.462)
@@ -2625,7 +2625,7 @@
 		)
 		(path "/770e7f51-47c6-4880-8ce9-137b9dbacc68")
 		(sheetname "Root")
-		(sheetfile "solar_cooker.kicad_sch")
+		(sheetfile "testing_station_old.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 10.16 13.462)
@@ -2955,7 +2955,7 @@
 		)
 		(path "/c7a06428-0e76-4e29-b035-93f634feaebf")
 		(sheetname "Root")
-		(sheetfile "solar_cooker.kicad_sch")
+		(sheetfile "testing_station_old.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -6.425 -3.3)
@@ -3287,7 +3287,7 @@
 		)
 		(path "/03df185e-632e-4918-a481-0b13b0cf9572")
 		(sheetname "Root")
-		(sheetfile "solar_cooker.kicad_sch")
+		(sheetfile "testing_station_old.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -12.7 -6.35)
@@ -3736,7 +3736,7 @@
 		)
 		(path "/fb06c8ee-2eed-4e85-9ba9-e17dfc31e70e")
 		(sheetname "Root")
-		(sheetfile "solar_cooker.kicad_sch")
+		(sheetfile "testing_station_old.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -5.84 -3)
@@ -4062,7 +4062,7 @@
 		)
 		(path "/e48653f5-3749-4d5c-9227-4221d4aebcdc")
 		(sheetname "Root")
-		(sheetfile "solar_cooker.kicad_sch")
+		(sheetfile "testing_station_old.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -12.718051 6.077949)
@@ -4383,7 +4383,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/327cf609-fd7c-4d1a-8d2e-c0976e97c032")
 		(sheetname "Root")
-		(sheetfile "solar_cooker.kicad_sch")
+		(sheetfile "testing_station_old.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 0.91)
@@ -4653,7 +4653,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/4577e291-b874-441e-9297-7a96cb83f76b")
 		(sheetname "Root")
-		(sheetfile "solar_cooker.kicad_sch")
+		(sheetfile "testing_station_old.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 -0.91)
@@ -4922,7 +4922,7 @@
 		)
 		(path "/4be892ae-12a2-4f1f-a2b3-a985699730ba")
 		(sheetname "Root")
-		(sheetfile "solar_cooker.kicad_sch")
+		(sheetfile "testing_station_old.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -12.7 -13.335)
@@ -5242,7 +5242,7 @@
 		)
 		(path "/21fa1f55-3d18-46a3-9f05-2e6f4db7fccc")
 		(sheetname "Root")
-		(sheetfile "solar_cooker.kicad_sch")
+		(sheetfile "testing_station_old.kicad_sch")
 		(attr through_hole)
 		(fp_rect
 			(start -10 -4.75)
@@ -5474,7 +5474,7 @@
 		)
 		(path "/b9ec2450-0cf2-4315-a398-ea95f1d6a2b7")
 		(sheetname "Root")
-		(sheetfile "solar_cooker.kicad_sch")
+		(sheetfile "testing_station_old.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 10.16 13.462)
@@ -5806,7 +5806,7 @@
 		)
 		(path "/9f4fe883-1cea-468e-a731-114a03cf020f")
 		(sheetname "Root")
-		(sheetfile "solar_cooker.kicad_sch")
+		(sheetfile "testing_station_old.kicad_sch")
 		(attr through_hole)
 		(fp_rect
 			(start -10 -4.75)
@@ -6008,7 +6008,7 @@
 		)
 		(path "/c4c3e349-b5a9-4e1d-b00f-b37f7735df6f")
 		(sheetname "Root")
-		(sheetfile "solar_cooker.kicad_sch")
+		(sheetfile "testing_station_old.kicad_sch")
 		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start 26.67 -50.8)
