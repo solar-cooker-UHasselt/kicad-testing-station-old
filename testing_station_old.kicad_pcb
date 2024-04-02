@@ -5356,7 +5356,6 @@
 			(at 11.4 -11.7 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(hide yes)
 			(uuid "07d15aed-ca4e-46c8-a81d-ca13d9ceae33")
 			(effects
 				(font
@@ -5402,7 +5401,7 @@
 			)
 		)
 		(property "Description" "CONN RCPT 8POS 0.1 GOLD PCB"
-			(at 61.091 145.135 0)
+			(at 61.091 145.135 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f3b51ea4-e9d0-45d9-91e7-07b48ddfee8e")
@@ -5413,7 +5412,7 @@
 			)
 		)
 		(property "MPN" "SSQ-108-01-G-S"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e8a61063-83c4-4af5-a02f-50a5d6409d72")
@@ -5425,7 +5424,7 @@
 			)
 		)
 		(property "Manufacturer" "Samtec Inc."
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "604adbde-6971-4da3-ae02-8f9c0b258279")
@@ -5437,7 +5436,7 @@
 			)
 		)
 		(property "SPN" "SAM1180-08-ND"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "59dd23d6-905f-4e1f-b670-811cc17184fc")
@@ -5449,7 +5448,7 @@
 			)
 		)
 		(property "Sim.Enable" "0"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e70f029c-ee3b-4844-9657-5c95e8dfe73f")
@@ -5461,7 +5460,7 @@
 			)
 		)
 		(property "Supplier" "Digi-Key"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f2b6dd28-316c-4992-8ac7-caf01dd25677")
@@ -8149,6 +8148,102 @@
 				(bold yes)
 			)
 			(justify left bottom mirror)
+		)
+	)
+	(gr_text "J14"
+		(at 163.82 83.67 0)
+		(layer "F.SilkS")
+		(uuid "06bcfe85-e85f-45b4-b9aa-d1556ca0b0fe")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "J9"
+		(at 217.32 151.01 0)
+		(layer "F.SilkS")
+		(uuid "070a4b63-50ca-41ae-880f-b8a2d048d275")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "J11"
+		(at 181.61 131.82 0)
+		(layer "F.SilkS")
+		(uuid "1a781cd8-443a-4977-bd9c-404b9719281f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "J15"
+		(at 186.62 83.67 0)
+		(layer "F.SilkS")
+		(uuid "4320a27d-d97b-4b13-a1aa-984bc576329c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "J13"
+		(at 135.8 130.33 0)
+		(layer "F.SilkS")
+		(uuid "9991cc6a-af0f-400f-8956-33af2a162297")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "J12"
+		(at 158.76 131.82 0)
+		(layer "F.SilkS")
+		(uuid "a9e5413a-3568-431a-a56b-d66d02e342c8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "J10"
+		(at 204.58 131.82 0)
+		(layer "F.SilkS")
+		(uuid "b287d3ec-a03a-45f5-a11f-f99449f391b4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "J16"
+		(at 213.61 83.67 0)
+		(layer "F.SilkS")
+		(uuid "e41ae9e5-1449-4e7f-a69e-1906c34e192c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
 		)
 	)
 	(gr_text "top side of the box"
