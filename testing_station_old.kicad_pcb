@@ -5125,7 +5125,7 @@
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "3da266f9-9844-420b-8133-bc38c4559e2a")
+			(uuid "95978bec-e0bd-463b-a367-9718dff4a3de")
 			(effects
 				(font
 					(size 1 1)
@@ -5137,7 +5137,7 @@
 			(at 0 -6 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "b02ca756-ae2c-4d3f-aa70-260ce4213848")
+			(uuid "c82a4232-e1af-49cb-8be6-6b068127b0ab")
 			(effects
 				(font
 					(size 1 1)
@@ -5150,7 +5150,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9b771736-550e-48be-8396-620f806ac2ca")
+			(uuid "963b137a-3a79-4f44-a59a-14b82840d991")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5162,7 +5162,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "57a26fb9-9ae0-46f3-8103-7c94ce3eec8d")
+			(uuid "1a62d5e2-4515-4c7c-b536-1f955497510c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5173,7 +5173,7 @@
 			(at 165.345 146.275 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7040a3d2-12fb-4049-a8fd-faea0bcdf469")
+			(uuid "cd86124a-e0b8-4142-a3d5-d70d12645822")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5241,8 +5241,6 @@
 			)
 		)
 		(path "/21fa1f55-3d18-46a3-9f05-2e6f4db7fccc")
-		(sheetname "Root")
-		(sheetfile "testing_station_old.kicad_sch")
 		(attr through_hole)
 		(fp_rect
 			(start -10 -4.75)
@@ -5253,7 +5251,7 @@
 			)
 			(fill none)
 			(layer "F.SilkS")
-			(uuid "3044385b-35d1-4673-bb5a-a87001519828")
+			(uuid "06ccbba6-5421-47ce-8fa7-942b3e53d786")
 		)
 		(fp_text user "white"
 			(at 2.6 7.119047 -90)
@@ -5312,7 +5310,7 @@
 			(net 8 "+5V")
 			(pinfunction "VCC")
 			(pintype "power_in")
-			(uuid "9a4a36c4-19de-44eb-9547-86913deb246a")
+			(uuid "2d8ec541-952e-440b-b000-7cea4704b086")
 		)
 		(pad "2" thru_hole circle
 			(at -2.54 0)
@@ -5323,7 +5321,7 @@
 			(net 9 "/SDA")
 			(pinfunction "SDA")
 			(pintype "input")
-			(uuid "51f2c77d-9ae8-4b76-badf-8057e792a071")
+			(uuid "799d0081-ed10-4bf0-8f68-059999f66ee3")
 		)
 		(pad "3" thru_hole circle
 			(at 2.54 0)
@@ -5334,7 +5332,7 @@
 			(net 10 "/SCL")
 			(pinfunction "SCL")
 			(pintype "input")
-			(uuid "9fe3f751-d890-486c-bb3f-15f84d6a7c35")
+			(uuid "8006bfac-2e25-4164-a0f7-d6b849e4c74c")
 		)
 		(pad "4" thru_hole circle
 			(at 7.62 0)
@@ -5345,7 +5343,7 @@
 			(net 2 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "289630cb-d32c-47bd-8736-825e18229a69")
+			(uuid "2451fe87-bc1d-4cff-8bbf-32f9c8b2628d")
 		)
 	)
 	(footprint "custom_components:Pt100"
@@ -5688,7 +5686,7 @@
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "d0a32b77-f9a5-4a14-8432-1b9ef219abbb")
+			(uuid "19f77911-d236-4859-b014-e913144b743c")
 			(effects
 				(font
 					(size 1 1)
@@ -5700,7 +5698,7 @@
 			(at 0 -6 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "d42c7ffe-35dc-45e6-aec9-7e3cd83bce4c")
+			(uuid "1a202021-1298-48f1-8482-2df1af37f5cf")
 			(effects
 				(font
 					(size 1 1)
@@ -5713,7 +5711,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6f3102aa-0a02-4647-8b45-ab523a674f12")
+			(uuid "00a68d7b-cffd-46c9-8445-b1ad01f7cc05")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5725,7 +5723,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2c1f4829-d54b-4867-bb2f-9fe2ab40a967")
+			(uuid "c7e37c53-5833-4736-8dc8-d8e5d8ad4801")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5736,7 +5734,7 @@
 			(at 142.665 146.285 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "24d9b2a0-9428-4ead-9c7c-540a419689a6")
+			(uuid "138844af-bfb1-438e-83a9-a6e0c038098b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5804,8 +5802,6 @@
 			)
 		)
 		(path "/9f4fe883-1cea-468e-a731-114a03cf020f")
-		(sheetname "Root")
-		(sheetfile "testing_station_old.kicad_sch")
 		(attr through_hole)
 		(fp_rect
 			(start -10 -4.75)
@@ -5816,7 +5812,7 @@
 			)
 			(fill none)
 			(layer "F.SilkS")
-			(uuid "25a5c3ef-8fc5-402d-9825-ead8862ead31")
+			(uuid "013340e6-ad67-4806-a8af-c7e545b5ceba")
 		)
 		(fp_text user "clear"
 			(at 7.7 7.061429 -90)
@@ -5875,7 +5871,7 @@
 			(net 18 "/A10")
 			(pinfunction "SIG")
 			(pintype "input")
-			(uuid "7a197029-c242-4844-a79b-43eb6c55e5a4")
+			(uuid "a94e13d4-cbcc-4729-8652-88da470de300")
 		)
 		(pad "2" thru_hole circle
 			(at -2.54 0)
@@ -5886,7 +5882,7 @@
 			(net 11 "+9V")
 			(pinfunction "VCC")
 			(pintype "input")
-			(uuid "5347340e-8796-43e5-a190-d3e18cfaa459")
+			(uuid "40b69b74-9da8-485d-b488-cab38cc21c62")
 		)
 		(pad "3" thru_hole circle
 			(at 2.54 0)
@@ -5897,7 +5893,7 @@
 			(net 2 "GND")
 			(pinfunction "GND")
 			(pintype "input")
-			(uuid "21fcc583-06d3-4602-8adb-1d60a4ca2b60")
+			(uuid "9cd07897-a1d7-4780-83ee-e7cb95f3ad82")
 		)
 		(pad "4" thru_hole circle
 			(at 7.62 0)
@@ -5908,7 +5904,7 @@
 			(net 2 "GND")
 			(pinfunction "GND")
 			(pintype "input")
-			(uuid "e3e404c0-4df2-4115-8a25-50e10a9ab472")
+			(uuid "6d415529-3436-42bf-b539-8132b101ef2a")
 		)
 	)
 	(footprint "A000067:ARDUINO_A000067"
@@ -7371,7 +7367,7 @@
 		(layer "B.Cu")
 		(uuid "cab3d1cb-9746-4dac-8f43-cab4133d201d")
 		(at 86.24 84.13 180)
-		(property "Reference" "G***"
+		(property "Reference" "pic"
 			(at 7.45 -4.07 180)
 			(layer "B.SilkS")
 			(hide yes)
