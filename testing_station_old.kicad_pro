@@ -6,7 +6,7 @@
         "apply_defaults_to_fp_fields": false,
         "apply_defaults_to_fp_shapes": false,
         "apply_defaults_to_fp_text": false,
-        "board_outline_line_width": 0.1,
+        "board_outline_line_width": 0.05,
         "copper_line_width": 0.2,
         "copper_text_italic": false,
         "copper_text_size_h": 1.5,
@@ -30,7 +30,7 @@
         "fab_text_size_v": 1.0,
         "fab_text_thickness": 0.15,
         "fab_text_upright": false,
-        "other_line_width": 0.15,
+        "other_line_width": 0.1,
         "other_text_italic": false,
         "other_text_size_h": 1.0,
         "other_text_size_v": 1.0,
@@ -41,17 +41,23 @@
           "height": 1.358,
           "width": 1.358
         },
-        "silk_line_width": 0.15,
+        "silk_line_width": 0.1,
         "silk_text_italic": false,
         "silk_text_size_h": 1.0,
         "silk_text_size_v": 1.0,
-        "silk_text_thickness": 0.15,
+        "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
           "min_clearance": 0.5
         }
       },
-      "diff_pair_dimensions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        }
+      ],
       "drc_exclusions": [
         "silk_edge_clearance|222805000|135589400|1ae5a374-e9bc-4d10-8bd3-e9cdac8d73dd|fbc6f6e0-482c-401e-b41f-32330f13ff5a",
         "silk_edge_clearance|222805000|82249400|1ae5a374-e9bc-4d10-8bd3-e9cdac8d73dd|60391444-b17c-4ae9-8c3d-943d3cfdda4d",
@@ -60,8 +66,7 @@
         "silk_edge_clearance|70100000|131335000|1ae5a374-e9bc-4d10-8bd3-e9cdac8d73dd|34c83938-e7ab-4cb0-be91-73ea4d90f472",
         "silk_edge_clearance|70100000|132435000|1ae5a374-e9bc-4d10-8bd3-e9cdac8d73dd|f4886152-0564-4771-b28e-49e704b3fd56",
         "silk_edge_clearance|74626177|80000000|1ae5a374-e9bc-4d10-8bd3-e9cdac8d73dd|4d154b71-672b-45b1-bca5-e607fbe511c5",
-        "silk_edge_clearance|74709052|157200000|1ae5a374-e9bc-4d10-8bd3-e9cdac8d73dd|0ab1c812-de41-4a64-bd2f-9c00615be42c",
-        "starved_thermal|97332868|139086080|5dcbdd12-9aaa-4427-88ba-1b8e3f745885|b7533587-e0da-4796-a0cc-cb5f1e6516b7|B.Cu"
+        "silk_edge_clearance|74709052|157200000|1ae5a374-e9bc-4d10-8bd3-e9cdac8d73dd|0ab1c812-de41-4a64-bd2f-9c00615be42c"
       ],
       "meta": {
         "version": 2
@@ -121,12 +126,12 @@
         "max_error": 0.005,
         "min_clearance": 0.0,
         "min_connection": 0.0,
-        "min_copper_edge_clearance": 0.0,
+        "min_copper_edge_clearance": 0.5,
         "min_hole_clearance": 0.25,
         "min_hole_to_hole": 0.25,
         "min_microvia_diameter": 0.2,
         "min_microvia_drill": 0.1,
-        "min_resolved_spokes": 2,
+        "min_resolved_spokes": 1,
         "min_silk_clearance": 0.0,
         "min_text_height": 0.8,
         "min_text_thickness": 0.08,
@@ -182,7 +187,9 @@
           "td_width_to_size_filter_ratio": 0.9
         }
       ],
-      "track_widths": [],
+      "track_widths": [
+        0.0
+      ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
           "corner_radius_percentage": 80,
@@ -209,7 +216,12 @@
           "spacing": 0.6
         }
       },
-      "via_dimensions": [],
+      "via_dimensions": [
+        {
+          "diameter": 0.0,
+          "drill": 0.0
+        }
+      ],
       "zones_allow_external_fillets": false
     },
     "ipc2581": {
@@ -459,9 +471,9 @@
         "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.25,
-        "via_diameter": 0.8,
-        "via_drill": 0.4,
+        "track_width": 0.2,
+        "via_diameter": 0.6,
+        "via_drill": 0.3,
         "wire_width": 6
       }
     ],
